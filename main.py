@@ -1,9 +1,6 @@
 a=int(input())
 b=int(input())
-if a>b:
-    print(a)
+if a==b:
+    print("berbaerdir")
 else:
-    print(b)
-print("dc")
-print("fvd vd")
- 
+    print("beraber deyil")
